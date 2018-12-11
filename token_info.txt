@@ -1,0 +1,6 @@
+
+Tick: $,
+Name: Paymebts,
+Decimals: 9999999,
+Total Supply: 99999999999,
+Ropsten Network Transaction Hash: Deployment Error
